@@ -1,2 +1,2 @@
-# first_haxe_program
-My first Haxe program. I have a very good idea of what Haxe code looks like now.
+# First Haxe Program
+My first Haxe program. I am attempting a Haxe game engine next.
