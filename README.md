@@ -1,2 +1,2 @@
 # First Haxe Program
-My first Haxe program. I am attempting a Haxe game engine next.
+My first Haxe program. I am trying to attempt a Haxe game engine next.
